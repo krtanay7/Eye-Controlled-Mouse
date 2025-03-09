@@ -21,6 +21,15 @@ Eye-Controlled-Mouse
 - requirements.txt  # Dependencies list
   
 ## Installation & Setup
+
+
+### How to Use the Requirements File
+- To install all dependencies at once, run the following command:
+```sh
+   pip install -r requirements.txt
+   ```
+- This will automatically install OpenCV, MediaPipe, and PyAutoGUI required for the project.
+
 ## Install Dependencies
 Make sure you have Python installed, then run:
  ```sh
